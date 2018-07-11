@@ -1,0 +1,9 @@
+.	40755	0/0
+./Library	40755	0/0
+./Library/Application Support	40755	0/0
+./Library/Application Support/Microsoft	40755	0/0
+./Library/Application Support/Microsoft/Office365	40755	0/0
+./Library/Application Support/Microsoft/Office365/User Content.localized	40755	0/0
+./Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized	40755	0/0
+./Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized/._Paradise.dotx	100644	0/0	0	0
+./Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized/Paradise.dotx	100644	0/0	48619	2063788421

@@ -1,0 +1,7 @@
+.	40755	0/0
+./usr	40755	0/0
+./usr/local	40755	0/0
+./usr/local/outset	40755	0/0
+./usr/local/outset/login-once	40755	0/0
+./usr/local/outset/login-once/._configureDock.sh	100755	0/0	0	0
+./usr/local/outset/login-once/configureDock.sh	100755	0/0	600	2669473932

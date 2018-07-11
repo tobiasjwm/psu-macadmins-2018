@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>com.github.globalmacit.7B819AC9-17E9-4BA1-8E65-9D4BBFC76DB8.alacarte</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>7B819AC9-17E9-4BA1-8E65-9D4BBFC76DB8</string>
+		<key>PayloadOrganization</key>
+		<string>Company Name</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDescription</key>
+		<string>Skips the iCloud Setup pop-up window</string>
+		<key>PayloadDisplayName</key>
+		<string>Skip iCloud Setup</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.SetupAssistant.managed</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.github.globalmacit.7B819AC9-17E9-4BA1-8E65-9D4BBFC76DB8.alacarte.loginwindow.ac77a0a0-a793-0133-7ea7-000c29fd99e8.managed</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>44FEC2A6-7E58-403B-BF8C-F279E63EC270</string>
+				<key>PayloadDisplayName</key>
+				<string>Login Window</string>
+				<key>SkipCloudSetup</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+</plist>

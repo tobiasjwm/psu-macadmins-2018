@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>D83039AB-5AE4-4749-9D20-3E2E0839932C</string>
+			<key>PayloadOrganization</key>
+			<string>REPLACE</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>D83039AB-5AE4-4749-9D20-3E2E0839932C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowCloudDesktopAndDocuments</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Prevents iCloud Desktop and Documents Sync from being enabled.</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable iCloud Desktop and Documents Sync</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>3E791066-687F-4E01-8074-82F8D6800DF4</string>
+	<key>PayloadOrganization</key>
+	<string>REPLACE</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3E791066-687F-4E01-8074-82F8D6800DF4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

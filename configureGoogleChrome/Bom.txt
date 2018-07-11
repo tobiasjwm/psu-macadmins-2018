@@ -1,0 +1,13 @@
+.	40755	0/0
+./Library	40755	0/0
+./Library/Google	40755	0/0
+./Library/Google/._Google Chrome Master Preferences	100644	0/0	0	0
+./Library/Google/._bookmarks.html	100644	0/0	0	0
+./Library/Google/Google Chrome Master Preferences	100644	0/0	1049	1502285233
+./Library/Google/bookmarks.html	100644	0/0	5755	250884733
+./usr	40755	0/0
+./usr/local	40755	0/0
+./usr/local/outset	40755	0/0
+./usr/local/outset/boot-once	40755	0/0
+./usr/local/outset/boot-once/._GoogleChrome.mobileconfig	100755	0/0	0	0
+./usr/local/outset/boot-once/GoogleChrome.mobileconfig	100755	0/0	2257	3288978524
